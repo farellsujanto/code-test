@@ -42,4 +42,4 @@ You will use this API to get a list of the repositories in the [Flutter](https:/
 API.
 
 ## Mockup
-https://github.com/farellsujanto/code-test/blob/main/mockup.png
+![Alt text](https://raw.githubusercontent.com/farellsujanto/code-test/main/mockup.png)
